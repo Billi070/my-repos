@@ -29,9 +29,9 @@ export default function Home() {
           </div>
           <div className="home-details">
             <p>
-              My name is Boluwatife Olayinka with Github username Billi070. Nice
-              to meet you, you can check out my Github repositories from Repos
-              link on the NavBar.
+              My name is Boluwatife Olayinka, a student at AltSchool Africa,
+              with Github username Billi070. Nice
+              to meet you.
             </p>
             {/* <p>My Github Username: </p> */}
           </div>

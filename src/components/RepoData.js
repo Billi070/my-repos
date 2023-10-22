@@ -8,10 +8,8 @@ const RepoData = ({ repo }) => {
         <h1>
           <span className="span">Repo:</span> {`${repo.name}`}
         </h1>
-        <h3>
-          <span className="span">Stack: </span> {`${repo.language}`}
-        </h3>
-        <div className="home-cont">
+      
+        <div className="error-btn">
           <Link to={`/repos/${repo.name}`} className="btn">
             CheckOut Repo
           </Link>

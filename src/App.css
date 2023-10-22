@@ -124,14 +124,14 @@
 } */
 
 .home-details {
-  /* background-color: rgb(23, 31, 104); */
-  /* background-color: antiquewhite; */
+  background-color: rgb(23, 31, 104);
+  background-color: antiquewhite;
   background: white;
   color: purple;
  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
- font-size: 15px;
-/* font-family: 'Ubuntu', sans-serif; */
-}
+ font-size: 10px;
+
+ }
 
 /* Card  and SingleRepo styles*/
 
@@ -147,18 +147,13 @@
   background: white;
   width: 30%;
   border-radius: 5px;
-  /* border: 2px solid rgb(51, 64, 182); */
+  border: 2px solid rgb(51, 64, 182);
   /* box-shadow: 10px 20px 25px 10px; */
   padding: 0.5rem;
   /* color: rgb(170, 155, 155); */
   color: purple;
   word-wrap: break-word;
-  /* display: flex;
-  justify-content: space-around;
-  gap: 10%; */
- /* display: flex;
-  align-items: center;
-  justify-content: center; */
+ 
   margin-top: 1rem;
   margin-bottom: 1.5em;
 }
