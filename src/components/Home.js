@@ -15,7 +15,7 @@ export default function Home() {
       </Helmet>
       <div className="home-cont home-cont-div">
         <h1 className="home--header home--title">
-          WELCOME TO MY GitHub REPOS' LOG
+          Welcome to my World
         </h1>
         <hr />
 
